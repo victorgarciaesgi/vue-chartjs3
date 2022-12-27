@@ -30,7 +30,7 @@
     "dist"
   ],
   "peerDependencies": {
-    "chart.js": "=> ^3.1.0",
+    "chart.js": "^3.0.0 || ^4.0.0",
     "vue": ">= 3"
   },
   "dependencies": {
